@@ -1,0 +1,38 @@
+_repo: The-Practitioner-May-1869-A-Monthly-Journal-of-Therapeutics_59682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+  - agent_name: Anstie, Francis Edmund
+    alias: Anstie, Francis E.
+    birthdate: 1833
+    deathdate: 1874
+    gutenberg_agent_id: '38935'
+    url: http://www.gutenberg.org/2009/agents/38935
+    wikipedia: http://en.wikipedia.org/wiki/Francis_E._Anstie
+description: ''
+gutenberg_issued: '2019-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Practitioner. May, 1869.
+
+  A Monthly Journal of Therapeutics'
+url: http://www.gutenberg.org/ebooks/59682
